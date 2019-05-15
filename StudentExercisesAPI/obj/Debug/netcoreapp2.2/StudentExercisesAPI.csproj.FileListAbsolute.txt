@@ -1,0 +1,14 @@
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.RazorAssemblyInfo.cache
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.RazorAssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\bin\Debug\netcoreapp2.2\StudentExercisesAPI.deps.json
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\bin\Debug\netcoreapp2.2\StudentExercisesAPI.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\bin\Debug\netcoreapp2.2\StudentExercisesAPI.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\bin\Debug\netcoreapp2.2\StudentExercisesAPI.dll
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\bin\Debug\netcoreapp2.2\StudentExercisesAPI.pdb
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.dll
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\StudentExercisesAPI\obj\Debug\netcoreapp2.2\StudentExercisesAPI.pdb

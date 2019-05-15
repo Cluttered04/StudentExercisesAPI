@@ -1,0 +1,17 @@
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\obj\Debug\netcoreapp2.2\TestStudentExercisesAPI.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\obj\Debug\netcoreapp2.2\TestStudentExercisesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\obj\Debug\netcoreapp2.2\TestStudentExercisesAPI.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\obj\Debug\netcoreapp2.2\TestStudentExercisesAPI.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\TestStudentExercisesAPI.deps.json
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\TestStudentExercisesAPI.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\TestStudentExercisesAPI.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\TestStudentExercisesAPI.dll
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\TestStudentExercisesAPI.pdb
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\StudentExercisesAPI.dll
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\bin\Debug\netcoreapp2.2\StudentExercisesAPI.pdb
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\obj\Debug\netcoreapp2.2\TestStudentExercisesAPI.csproj.CopyComplete
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\obj\Debug\netcoreapp2.2\TestStudentExercisesAPI.dll
+C:\Users\Newforce\workspace\csharp\StudentExercisesAPI\TestStudentExercisesAPI\obj\Debug\netcoreapp2.2\TestStudentExercisesAPI.pdb
